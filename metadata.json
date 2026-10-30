@@ -1,0 +1,6 @@
+{
+  "name": "DroidForge IDE - On-Device Android Studio",
+  "description": "Complete Native Android IDE architecture and codebase in Kotlin and Jetpack Compose for creating, compiling, and running apps directly on-device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
